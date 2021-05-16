@@ -1,0 +1,11 @@
+ticker,name,market,locale,type,currency,active,primaryExch,updated,attrs,url,codes
+AAPL,Apple Inc. Common Stock,STOCKS,US,,USD,True,NASDAQ,2020-06-23,,,
+GOOG,Alphabet Inc. Class C Capital Stock,STOCKS,US,,USD,True,NASDAQ,2020-06-23,,,
+TSLA,"Tesla, Inc. Common Stock",STOCKS,US,,USD,True,NASDAQ,2020-06-23,,,
+BajFinance,Bajaj Finance Ltd,STOCKS,IND,,INR,TRUE,NSE,2021-05-15,,,
+BEPL,Bhansali Engineering Polymers Ltd.,STOCKS,IND,,INR,TRUE,NSE,2021-05-15,,,
+Reliance,Reliance Ind Ltd.,STOCKS,IND,,INR,TRUE,NSE,2021-05-15,,,
+SBIN,State Bank of India,STOCKS,IND,,INR,TRUE,NSE,2021-05-15,,,
+SunPharma,Sun Pharmaceutical Industries Limited,STOCKS,IND,,INR,TRUE,NSE,2021-05-15,,,
+Titan,Tata Ltd.,STOCKS,IND,,INR,TRUE,NSE,2021-05-15,,,
+Infy,Infosys Ltd,STOCKS,IND,,INR,TRUE,NSE,2021-05-15,,,
